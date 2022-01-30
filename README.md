@@ -8,6 +8,19 @@ AF Motor Library: https://bit.ly/2VlyW2m
 
 ## Note: You have to install the AF Motor Library before uploading the code.
 
+### Here's the parts list:
+
+1) Arduino Uno 
+2) Motor Driver Shield
+3) Wheels (4x) 
+4) TT Gear Motor (4x) 
+5) HC-05 Bluetooth Module 
+6) 18650 Li-on Battery (2x) 
+7) 18650 Battery Holder -
+8) Male and Female Jumper wires
+9) Acrylic Sheet
+10) DC Power Switch
+
 ### CAR...
 
 
